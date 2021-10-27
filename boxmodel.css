@@ -1,0 +1,24 @@
+*{
+  padding:0;
+  margin:0;
+  font-size:40px;
+}
+.box1{
+  background-color:red;
+  border:20px solid purple;
+  padding:20px;
+  /*Margin is used to two items apart from each other */
+  width:100px;
+  height:100px;
+  margin:60px;
+  
+}
+.box2{
+  background-color:blue;
+  border:20px solid green;
+  padding:20px;
+  width:100px;
+  height:100px;
+  margin:60px;
+  
+}
